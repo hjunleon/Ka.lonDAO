@@ -61,7 +61,7 @@ export default function SignupForm(){
                 <div>
                   {
                     ["male", "female", "both"].map((el, idx) => (
-                      <IconButton className="mx-2" onClick={()=>{
+                      <IconButton key={`${el}_${idx}`} className="mx-2" onClick={()=>{
                         setGender(el)
                       }} color={gender == el?"success":"default"}>
                         {
