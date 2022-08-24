@@ -12,8 +12,7 @@ The whole process doesn't just end there! In the app, users would be prompted to
 ### **In-App Rating System**
 Tasks would also be configure to tailor to end-to-end dating experience. For example, upon successfully completing a meet-up faciliated via KalonDAO, users would be prompted to give each other a rating of how the date went. Good ratings would be transalted into KalonCoins, and ratings would also affect the quality of the matches that users get as well. This helps solves the scamming & cat-fishing problems that most users face on traditional dating apps.
 
-## How we built it > #### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> Configuration
-> Configuration can be launched from the **Tools -> Settings** menu option.
+## How we built it > <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> 
 Solutioning was done on [Miro](https://miro.com/app/board/uXjVPehO4gg=/). Wireframing was done on [Figma](https://www.figma.com/file/8TGzech2hMdAOEgDxMgWbb/Wireframe?node-id=0%3A1) . Front-end was done on **React, NextJS, html and tailwind css**. Smart contract in **Solidity leveraging OpenZeppelin**, tested on **Truffle** framework, deployed on **Polygon Edge via Kaleido** linked to **IPFS**, and APIs exposed and tested on **Postman**.
 
 ## Challenges we ran into
