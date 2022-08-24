@@ -1,4 +1,4 @@
-## Inspiration
+## Inspiration <i class="fa-solid fa-rocket-launch"></i>
 We think that the normal dating app experience is flat and boring. Normal dating apps serve purely as the middle layer by connecting users together, and that is the end of the story. By introducing the Web3 element into dating apps, **the whole dating experience could be gamified**, and dating would be fun again. Such gamification experience could pave the road to more use-cases which would help simplify and make the end-to-end dating experience as seamless as possible. 
 
 ## What it does
